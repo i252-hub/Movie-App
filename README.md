@@ -1,3 +1,3 @@
 # Movie-App
-![alt text](http://url/to/img.png)
+![alt text](Untitled.png)
 ui/ux design
